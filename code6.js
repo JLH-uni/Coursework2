@@ -468,7 +468,7 @@ gdjs.OptionsCode.condition0IsTrue_0.val = false;
 {
 gdjs.OptionsCode.condition0IsTrue_0.val = gdjs.evtTools.input.isMouseButtonPressed(runtimeScene, "Left");
 }if (gdjs.OptionsCode.condition0IsTrue_0.val) {
-{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Game", false);
+{gdjs.evtTools.runtimeScene.replaceScene(runtimeScene, "Prototype", false);
 }}
 
 }
